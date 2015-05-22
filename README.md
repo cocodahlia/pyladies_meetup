@@ -186,9 +186,9 @@ DevOpsでは、事業部門から、開発、品質保証、および運用に�
 
 勉強会後にでも気になった部分や、質問などあれば、ISSUEで起票してくれると嬉しいです。
 
-PullRequestはあげられるので、contributorsへの登録リクエストを投げてもらてると嬉しいです。
+資料に対して、紹介したい事例とかある人がいれば、PullRequest大歓迎です。(自分得）
 
-具体的には、このリポジトリにある[contributors.txt](https://github.com/MisaKondo/pyladies_meetup/blob/master/contributors.txt)に自分のGitHubアカウントを追記して、PullRequest投げて下さい。
+資料にtypo見つけたので、直してくれるとかも大歓迎です。
 
 -------
 

@@ -1,5 +1,5 @@
 # 当日やること（忘れそうなのでここにかく）
 
- - [ ] 参加者の人のアカウントをContributorとして登録してよいか確認する
  - [ ] 勉強会後に質問とか、気になった部分とかあれば、手軽にISSUEでもあげてもらう
- - [ ] contributors.txtを利用してPullRequest投げてもらえると嬉しいを伝える
+ - [ ] 色々他の事例もしりたいので、ネタもっている人から集める意味でPullRequest投げてもらう
+ - [ ] contributors.txtでPullRequestの練習してもらう（時間があれば、なければdocsとしてcontributing追加しておいて、うまいこと伝える）
