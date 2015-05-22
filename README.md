@@ -188,13 +188,13 @@ DevOpsでは、事業部門から、開発、品質保証、および運用に�
 
 PullRequestはあげられるので、contributorsへの登録リクエストを投げてもらてると嬉しいです。
 
-具体的には、このリポジトリにある[contributors.txt](https://github.com/MisaKondo/pyladies_meetup/tree/contributors.txt)に自分のGitHubアカウントを追記して、PullRequest投げて下さい。
+具体的には、このリポジトリにある[contributors.txt](https://github.com/MisaKondo/pyladies_meetup/blob/master/contributors.txt)に自分のGitHubアカウントを追記して、PullRequest投げて下さい。
 
 -------
 
 # 現状確認
 
-[TODO](https://github.com/MisaKondo/pyladies_meetup/tree/TODO.md)
+[TODO](https://github.com/MisaKondo/pyladies_meetup/blob/master/TODO.md)
 
 -------
 
