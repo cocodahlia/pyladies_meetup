@@ -25,6 +25,8 @@ PullRequestを送り採用されたということは、そのソフトウェア
 
 # 実践（雑）
 
+## [contributors.txt](https://github.com/MisaKondo/pyladies_meetup/blob/master/contributors.txt)に自分のGitHubアカウントを追記して、PullRequest投げて下さい
+
 今回に関しては、一言でまとめると、ForkしてPullRequest投げてね、です。
 時間が押してそうなので、やってみたい方は下記のサイト参考にして、実際にこのリポジトリにPullRequest投げてみてください。
 

@@ -1,5 +1,7 @@
 # DevOps分野でのGit活用事例
 
+![inline](https://img.shields.io/badge/doc-public-brightgreen.svg)
+
 ------
 
 # 自己紹介
